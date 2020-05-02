@@ -1,0 +1,8 @@
+.idea/.gitignore
+.idea/SpotiBot.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+Development/
+/config.py
